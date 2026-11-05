@@ -1,0 +1,4 @@
+interface:
+  display_name: "github-research（GitHub Research）"
+  short_description: "Evidence-backed GitHub research and decisions"
+  default_prompt: "Use $github-research to investigate this GitHub question and give me an evidence-backed decision."
